@@ -11,6 +11,8 @@
 
 Startup di sviluppo software su misura · Osimo (AN) 🇮🇹
 
+🇮🇹 **Italiano** · [🇬🇧 English](https://github.com/Fearlix-SRL/.github/blob/main/profile/README.en.md)
+
 [![Sito](https://img.shields.io/badge/fearlix.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fearlix.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/company/fearlix-s-r-l)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FearliXS.r.l)
